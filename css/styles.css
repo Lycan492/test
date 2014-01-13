@@ -1,0 +1,19 @@
+/*
+body {
+	background: #f13852;
+}
+
+h1 {
+	background: #a2f821;
+}
+*/
+
+body {
+	background: url("../img/fresh_snow/fresh_snow.png");  /*starting in css folder, must go up to go back down*/
+}
+
+h1 {
+	font-family: 'Hanalei';
+}
+
+/*alpha & omega designate first/last ignores additional padding & margins*/
